@@ -16,7 +16,7 @@
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 7
     },
     {
       "id": 4,
@@ -27,7 +27,7 @@
     {
       "id": 5,
       "name": "Rex",
-      "image": "https://static.wikia.nocookie.net/pixar/images/a/a8/Rex_%28Toy_Story%29.png/revision/latest/scale-to-width-down/377?cb=20210221010941",
+      "image": "https://static.wikia.nocookie.net/pixar/images/a/a8/Rex_%28Toy_Story%29.png",
       "likes": 1
     },
     {
@@ -40,13 +40,73 @@
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 3
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 0
+    },
+    {
+      "name": "sdvn",
+      "image": "smvndv",
+      "likes": 4,
+      "id": 9
+    },
+    {
+      "name": "he",
+      "image": "klli",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "sjdcsbc",
+      "image": "sjhdcbsc",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "sdbcscb",
+      "image": "scbcb",
+      "likes": 14,
+      "id": 12
+    },
+    {
+      "name": "scsdc",
+      "image": "scdscdsdc",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "happy",
+      "image": "shaia",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "sdjhbjhdv",
+      "image": "sjhcjdc",
+      "likes": 8,
+      "id": 15
+    },
+    {
+      "name": "zdjchbsc",
+      "image": "sdcsjhbc",
+      "likes": 0,
+      "id": 16
+    },
+    {
+      "name": "xjhbv",
+      "image": "xdvknvj",
+      "likes": 7,
+      "id": 17
+    },
+    {
+      "name": "dfvhbdfv",
+      "image": "dfvjndfv",
+      "likes": 9,
+      "id": 18
     }
   ]
 }
